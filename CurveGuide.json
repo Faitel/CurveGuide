@@ -1,0 +1,11 @@
+{
+    "path": "$CURVEGUIDE",
+    "load_package_once": true,
+    "version": "19.5",
+    "enable": true,
+    "env": [
+        {
+            "CURVEGUIDE": "C:/Users/Aleksandr/Documents/GitHub/CurveGuide"
+        }
+    ]
+}
